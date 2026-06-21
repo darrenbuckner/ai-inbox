@@ -205,9 +205,7 @@ Give the AI inbox address to specific services — newsletter signups, notificat
 
 ## Credits
 
-Built by [Darren Buckner](https://www.linkedin.com/in/darrenbuckner/) / [Capability Lab](https://capabilitylab.com)
-
-Part of the [Product Brunch](https://productbrunch.com) series on building with AI.
+Built by [Darren Buckner](https://www.linkedin.com/in/darrenbuckner/) / [Capability Lab](https://capabilitylab.ai)
 
 ---
 
